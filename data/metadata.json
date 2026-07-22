@@ -1,0 +1,16 @@
+{
+  "Daniel": {
+    "name": "Daniel",
+    "role": "Employee",
+    "notes": "Human",
+    "created_at": "2026-07-22 16:22:06",
+    "sample_count": 20
+  },
+  "Daniel2": {
+    "name": "Daniel2",
+    "role": "Employee",
+    "notes": "Human",
+    "created_at": "2026-07-22 16:29:41",
+    "sample_count": 11
+  }
+}
